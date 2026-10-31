@@ -9,7 +9,7 @@ Weinberger, S. H., & Kelley, M. C. (2026). *The Speech Accent Archive*. George M
 The archive currently identifies its content as **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International**:
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-The supplied MP3 files are copied without modification. Retain attribution and license notices, identify modifications if you adapt recordings, and distribute adaptations under the same license. Do not use the recordings commercially. No endorsement by the archive or speakers is implied. The license for recordings is distinct from rights in the game code.
+The supplied MP3 files and text passage are copied without modification. Retain attribution and license notices, identify modifications if you adapt recordings, and distribute adaptations under the same license. Do not use the recordings commercially. No endorsement by the archive or speakers is implied. The license for recordings is distinct from rights in the game code.
 
 ## Source traceability
 
