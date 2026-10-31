@@ -53,7 +53,7 @@ button,.option{border-radius:10px}
 #play-icon svg{fill:currentColor}
 .player{border-radius:28px;padding-left:4px}
 button,.topline,.listen p,.transcript,.about,#review p,#feedback{font-size:1rem}
-.option{font-weight:500;min-height:3rem;height:3rem;line-height:1.25;padding:8px 12px;animation:answer-in 220ms ease-out}
+.option{font-weight:500;min-height:3rem;height:3rem;line-height:1.25;padding:8px 12px;animation:answer-in 999ms ease-out}
 #answers{grid-template-columns:repeat(2,minmax(0,1fr));grid-auto-rows:3rem}
 #answers .option:disabled:not(.correct):not(.wrong){opacity:1}
 #feedback,#feedback:empty{display:block;min-height:3em;margin:8px 0 0;line-height:1.5}
