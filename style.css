@@ -2,6 +2,6 @@
 
 header{justify-content:flex-end}
 
-#feedback{font-size:21px;font-weight:800;line-height:1.4}
-#feedback.feedback-correct{color:#17632e;background:#e8f5e9;border-left:5px solid #237b3d;padding:14px 16px;border-radius:7px}
-#feedback.feedback-incorrect{color:#a41f26;background:#fff0f0;border-left:5px solid #b3232b;padding:14px 16px;border-radius:7px}
+#feedback{font-size:16px;font-weight:600;line-height:1.65}
+#feedback.feedback-correct{color:#17632e}
+#feedback.feedback-incorrect{color:#a41f26}
