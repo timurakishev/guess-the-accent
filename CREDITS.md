@@ -1,6 +1,8 @@
 # Credits and recording license
 
-Game developed by Timur Akishev, Assistant Professor of Linguistics at KIMEP University (2026). Web adaptation of the supplied desktop game.
+Game developed by Timur Akishev, Assistant Professor of Linguistics at KIMEP University (2026). 
+
+The reading passage (“Please call Stella…”) and audio recordings are from *The Speech Accent Archive*. These materials are not covered by the copyright notice for the game code and design.
 
 ## APA reference
 
