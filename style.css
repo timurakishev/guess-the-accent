@@ -84,3 +84,6 @@ button,.topline,.listen p,.transcript,.about,#review p,#feedback{font-size:1rem}
   #answers{max-width:360px}
   #feedback,#feedback:empty{min-height:3em;display:flex;align-items:flex-end}
 }
+main {
+  padding-bottom: 60px;
+}
