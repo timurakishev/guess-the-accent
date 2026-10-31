@@ -2,8 +2,6 @@
 
 Game developed by Timur Akishev, Assistant Professor of Linguistics at KIMEP University (2026). Web adaptation of the supplied desktop game.
 
-Audio recordings: Steven H. Weinberger, Matthew C. Kelley · © 2026 · [The Speech Accent Archive](https://accent.gmu.edu/)
-
 ## APA reference
 
 Weinberger, S. H., & Kelley, M. C. (2026). *The Speech Accent Archive*. George Mason University. https://accent.gmu.edu/
