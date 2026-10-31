@@ -2,13 +2,13 @@
 
 Game developed by Timur Akishev, Assistant Professor of Linguistics at KIMEP University (2026). 
 
-The reading passage (“Please call Stella…”) and audio recordings are from *The Speech Accent Archive*. These materials are not covered by the copyright notice for the game code and design.
+The reading passage (“Please call Stella…”) and audio recordings are from The Speech Accent Archive. These materials are not covered by the copyright notice for the game code and design.
 
 ## APA reference
 
-Weinberger, S. H., & Kelley, M. C. (2026). *The Speech Accent Archive*. George Mason University. https://accent.gmu.edu/
+Weinberger, S. H., & Kelley, M. C. (2026). The Speech Accent Archive. George Mason University. https://accent.gmu.edu/
 
-The archive currently identifies its content as **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International**:
+The archive currently identifies its content as "Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International":
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 The supplied MP3 files and text passage are copied without modification. Retain attribution and license notices, identify modifications if you adapt recordings, and distribute adaptations under the same license. Do not use the recordings commercially. No endorsement by the archive or speakers is implied. The license for recordings is distinct from rights in the game code.
