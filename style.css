@@ -19,3 +19,45 @@
 .option:hover:not(:disabled),.quiet:hover:not(:disabled){background:#fff;filter:none}
 .option.correct{background:#d8eddf;color:#17552b;border-color:#78b78a}
 .option.wrong{background:#f4dce0;color:#85232c;border-color:#cb858e}
+
+/* Typography matched to the supplied personal-site stylesheet. */
+html{font-size:16px;-webkit-text-size-adjust:100%;text-size-adjust:100%;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+@media(min-width:48em){html{font-size:18px}}
+@media(min-width:64em){html{font-size:20px}}
+@media(min-width:80em){html{font-size:22px}}
+body{font-size:1rem;line-height:1.5}
+h1{font-size:1.563rem;line-height:1.2}
+h2,.about h2{font-size:1.25rem;line-height:1.2}
+a{color:#8cd2d5}
+.intro p{font-size:1rem}
+button,.topline,.listen p,.transcript,.about,#review p{font-size:.875rem}
+#feedback{font-size:1rem}
+#final-score{font-size:2rem}
+.eyebrow{font-size:.75rem}
+/* Keep audio controls compact regardless of the page's reading size. */
+#play{font-size:16px}
+#time,.player #time{font-size:12px}
+
+/* Consistent controls, typography, and stable question layout. */
+:root{--green:#54bd77;--red:#ed717a}
+.game{border-radius:16px}
+button,.option{border-radius:10px}
+.actions button,#again{background:#e6e7e9;color:#252a34;border-color:#c4c7cc}
+.actions button:hover:not(:disabled),#again:hover{background:#fff;filter:none}
+.actions button:disabled{opacity:1;background:#707680;color:#20242d;border-color:#707680}
+.option.correct{background:#b8dec3;color:#123e20;border-color:#57a16e}
+.option.wrong{background:#e9b7bf;color:#671923;border-color:#c05a69}
+#play{width:40px;height:40px;min-width:40px;flex-basis:40px;border-radius:50%;background:#e6e7e9;color:#252a34;box-shadow:0 1px 3px #0003}
+#play:hover:not(:disabled){background:#fff}
+#play-icon,#play-icon svg{display:block;width:19px;height:19px}
+#play-icon svg{fill:currentColor}
+.player{border-radius:28px;padding-left:4px}
+button,.topline,.listen p,.transcript,.about,#review p,#feedback{font-size:1rem}
+.option{font-weight:500;min-height:3rem;height:3rem;line-height:1.25;padding:8px 12px;animation:answer-in 220ms ease-out}
+#answers{grid-template-columns:repeat(2,minmax(0,1fr));grid-auto-rows:3rem}
+#answers .option:disabled:not(.correct):not(.wrong){opacity:1}
+#feedback,#feedback:empty{display:block;min-height:3em;margin:8px 0 0;line-height:1.5}
+.actions{margin-top:8px}
+@keyframes answer-in{from{opacity:.25;transform:translateY(3px)}to{opacity:1;transform:translateY(0)}}
+@media(max-width:560px){#answers{grid-template-columns:1fr}#play{min-width:40px}}
+@media(prefers-reduced-motion:reduce){.option{animation:none}}
