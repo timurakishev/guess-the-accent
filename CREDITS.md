@@ -1,9 +1,12 @@
 # Credits and recording license
 
-Game developed by Timur Akishev, Assistant Professor of Linguistics at KIMEP University (2026).
+Game developed by Timur Akishev, Assistant Professor of Linguistics at KIMEP University (2026). Web adaptation of the supplied desktop game.
 
-Audio source:
-Weinberger, Steven. (2015). Speech Accent Archive. George Mason University. https://accent.gmu.edu/
+Audio recordings: Steven H. Weinberger, Matthew C. Kelley · © 2026 · [The Speech Accent Archive](https://accent.gmu.edu/)
+
+## APA reference
+
+Weinberger, S. H., & Kelley, M. C. (2026). *The Speech Accent Archive*. George Mason University. https://accent.gmu.edu/
 
 The archive currently identifies its content as **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International**:
 https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -12,7 +15,7 @@ The supplied MP3 files are copied without modification. Retain attribution and l
 
 ## Source traceability
 
-The uploaded files use local filenames rather than original archive sample identifiers. Their source attribution comes from the supplied Python application's credits. Individual archive sample URLs and speaker IDs have not been verified; add those when available. Language mappings below are supplied by the creator, not independently inferred from the voices.
+The uploaded files use local filenames rather than original archive sample identifiers. The archive attribution above uses the creator names and year supplied by the game author. Individual archive sample URLs and speaker IDs have not been verified; add those when available. Language mappings below are supplied by the creator, not independently inferred from the voices.
 
 | File | First-language label |
 |---|---|
