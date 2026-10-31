@@ -74,3 +74,13 @@ button,.topline,.listen p,.transcript,.about,#review p,#feedback{font-size:1rem}
 .about{font-size:.8rem}
 .about h2{font-size:1rem}
 @media(max-width:560px){.actions button,#again{min-height:44px}}
+
+/* Balance visible spacing, not the waveform's invisible SVG padding. */
+.waveform{height:34px}
+.listen>p{line-height:1.35}
+#answers{width:100%;max-width:560px;margin:0 auto}
+#feedback,#feedback:empty{min-height:1.5em}
+@media(max-width:560px){
+  #answers{max-width:360px}
+  #feedback,#feedback:empty{min-height:3em;display:flex;align-items:flex-end}
+}
