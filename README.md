@@ -1,28 +1,17 @@
 # Guess the Accent
 
-A browser-based listening game by Timur Akishev, KIMEP University (2026).
+A listening game to guess accents of English, with 15 recordings, multiple-choice questions, and typed answers.
 
-15 recordings, shuffled rounds, four-choice or typed answers, running score, a final review, and the shared reading passage. No build tools, accounts, analytics, or server required. All game state stays in the browser and resets on reload.
+Developed by Timur Akishev, KIMEP University.
 
-## Publish on GitHub Pages
+## Copyright and credits
 
-1. Create a **public** repository named `guess-the-accent`.
-2. Upload this folder's contents to the repository root, preserving the `audio` folder. Upload the extracted files, not the ZIP.
-3. Open **Settings → Pages**. Select **Deploy from a branch**, then **main** and **/(root)**. Save.
-4. Wait for the Pages deployment to finish. The expected URL for the account `timurakishev` is `https://timurakishev.github.io/guess-the-accent/`.
+© 2026 Timur Akishev. All rights reserved for the game code and design.
 
-Further commits to the publishing branch update the site automatically.
+Audio recordings are from the [Speech Accent Archive](https://accent.gmu.edu/), George Mason University:
 
-## Run locally
+Weinberger, Steven. (2015). Speech Accent Archive.
 
-Open `index.html` in a browser, or serve this folder with `python -m http.server 8000` and visit `http://localhost:8000`.
+The recordings are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). They remain subject to that license and are not covered by the copyright claim above.
 
-## Educational notes
-
-The task asks for the speaker's reported first language, not nationality. One speaker does not represent all speakers of a language. Typed answers accept broader labels (Chinese, Spanish, Portuguese) as well as the specific labels shown in feedback.
-
-Answer keys are visible in the JavaScript source; this is a practice game, not a secure assessment.
-
-## Credits and permissions
-
-See CREDITS.md. Recordings retain their own license; no blanket software license is assigned to this repository.
+See [CREDITS.md](CREDITS.md) for details.
