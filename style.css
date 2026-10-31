@@ -13,3 +13,9 @@
 #seek:disabled{opacity:.4;cursor:default}
 #time{color:var(--ink)}
 @media(max-width:560px){.player{gap:8px;padding:4px 12px 4px 4px}#play{min-width:38px}.player #time{font-size:11px}}
+
+/* Light controls for clear contrast against the dark page. */
+.option,.quiet{background:#e6e7e9;color:#252a34;border-color:#c4c7cc}
+.option:hover:not(:disabled),.quiet:hover:not(:disabled){background:#fff;filter:none}
+.option.correct{background:#d8eddf;color:#17552b;border-color:#78b78a}
+.option.wrong{background:#f4dce0;color:#85232c;border-color:#cb858e}
