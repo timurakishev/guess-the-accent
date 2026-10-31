@@ -1,9 +1,8 @@
 # Credits and recording license
 
-Game developed by Timur Akishev, Assistant Professor of Linguistics at KIMEP University (2026). Web adaptation of the supplied desktop game.
+Game developed by Timur Akishev, Assistant Professor of Linguistics at KIMEP University (2026).
 
-Audio source as credited in the original application:
-
+Audio source:
 Weinberger, Steven. (2015). Speech Accent Archive. George Mason University. https://accent.gmu.edu/
 
 The archive currently identifies its content as **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International**:
