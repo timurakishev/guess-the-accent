@@ -1,6 +1,6 @@
 # Guess the Accent
 
-A listening game to guess accents of English, with 15 recordings, multiple-choice questions, and typed answers.
+A listening game to guess accents of English, with 15 recordings and multiple-choice questions.
 
 Developed by Timur Akishev, KIMEP University.
 
