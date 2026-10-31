@@ -10,8 +10,6 @@ Developed by Timur Akishev, KIMEP University.
 
 Audio recordings are from the [Speech Accent Archive](https://accent.gmu.edu/), George Mason University:
 
-Weinberger, Steven. (2015). Speech Accent Archive.
+Weinberger, S.H. & Kelley, M.C. (2026). The Speech Accent Archive
 
 The recordings are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). They remain subject to that license and are not covered by the copyright claim above.
-
-See [CREDITS.md](CREDITS.md) for details.
